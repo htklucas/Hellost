@@ -4,5 +4,6 @@
 
 <hr>
 
-<h4>Simple preview</h4>
-![image](https://github.com/htklucas/test/assets/161860612/daf86ef1-79af-4cab-840d-527e6a387e6d)
+<h2 align = center>Simple preview</h2>
+
+![image](https://github.com/htklucas/test/assets/161860612/e57b9097-64c0-44fe-9814-165345ac5912)
